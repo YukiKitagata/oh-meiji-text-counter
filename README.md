@@ -8,6 +8,8 @@ Oh-o! Meiji のアンケートで、何文字書いているのか確認する�
 
 次に、以下のリンクから、User Script をインストールすれば、Oh-o! Meiji のアンケートページで文字数を確認出来るはずです。
 
+[インストール](https://github.com/YukiKitagata/oh-meiji-text-counter/raw/master/questionnaire-text-counter.user.js)
+
 # 注意
 
 この User Script を使用して発生した不都合について、作者は一切の責任を負いません。
